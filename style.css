@@ -169,7 +169,7 @@ strong {
 ul {
     list-style-type: "✔";
     columns: 2;
-    margin: 13px 13px;
+    margin: 13px 8px;
 }
 
 ul > li {

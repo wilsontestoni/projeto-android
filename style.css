@@ -176,7 +176,7 @@ ul {
 ul > li {
     line-height: 100%;
     margin-bottom: 6px;
-    padding: 0px;
+    padding-right: 30px;
 }
 
 footer {
